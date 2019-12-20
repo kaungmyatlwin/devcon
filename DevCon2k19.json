@@ -1,0 +1,298 @@
+{
+    "schdeule" : {
+        
+        "day1" : [
+            {
+                "room" : "Conference Hall",
+                "topic" : "Opening Talk",
+                "speaker" : "MCPA",
+                "from" : "2019-12-21T02:30:00.000Z",
+                "to" : "2019-12-21T02:40:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Opening Remark  ",
+                "speaker" : "Guest of Honour",
+                "from" : "2019-12-21T02:40:00.000Z",
+                "to" : "2019-12-21T02:55:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Opening Opening Keynotes",
+                "speaker" : "U Chit Tun Pe",
+                "from" : "2019-12-21T03:00:00.000Z",
+                "to" : "2019-12-21T03:15:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Panel Discussion",
+                "speaker" : "Moderator U Win Htein Win, 5 panelists",
+                "from" : "2019-12-21T03:15:00.000Z",
+                "to" : "2019-12-21T04:45:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Initiation of Blockchain Technology based Open Framework for e-Government Development in Myanmar",
+                "speaker" : "Dr. Thin Thu Naing",
+                "from" : "2019-12-21T04:45:00.000Z",
+                "to" : "2019-12-21T05:30:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "Enabling addons in SaaS System",
+                "speaker" : "Ko Thuya Moy Nyunt",
+                "from" : "2019-12-21T04:45:00.000Z",
+                "to" : "2019-12-21T05:30:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Enhancing Professional Capacity Through CPD",
+                "speaker" : "Nyein Oo",
+                "from" : "2019-12-21T04:45:00.000Z",
+                "to" : "2019-12-21T05:30:00.000Z"
+            },
+            {
+                "room" : "NA",
+                "topic" : "Lunch",
+                "speaker" : "NA",
+                "from" : "2019-12-21T05:30:00.000Z",
+                "to" : "2019-12-21T06:30:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Magical PHP",
+                "speaker" : "Ei Maung",
+                "from" : "2019-12-21T06:30:00.000Z",
+                "to" : "2019-12-21T07:15:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "Spirit of Ownership in Business & Technology",
+                "speaker" : "Maung Maung Thant",
+                "from" : "2019-12-21T06:30:00.000Z",
+                "to" : "2019-12-21T07:15:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Microsoft Power Platform and Business Intelligence",
+                "speaker" : "Htin Kyaw Soe Lin",
+                "from" : "2019-12-21T06:30:00.000Z",
+                "to" : "2019-12-21T07:15:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "security and compliance on FinTech",
+                "speaker" : "Myo Zaw",
+                "from" : "2019-12-21T07:20:00.000Z",
+                "to" : "2019-12-21T08:05:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "React Native + Expo + WordPress = Awesome Web & Mobile App",
+                "speaker" : "Kyaw Thura Aung",
+                "from" : "2019-12-21T07:20:00.000Z",
+                "to" : "2019-12-21T08:05:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Introduction to Cloud & AI Platform Tools",
+                "speaker" : "Thu Ta Naing",
+                "from" : "2019-12-21T07:20:00.000Z",
+                "to" : "2019-12-21T08:05:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Effective Programming vs Communication",
+                "speaker" : "Pyai Soe Maw",
+                "from" : "2019-12-21T08:10:00.000Z",
+                "to" : "2019-12-21T08:55:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "A glimpse to MongoDB Aggregation Framework with Data Visualization",
+                "speaker" : "Kaung Myat Lwin, Htoo Pyae Lwin",
+                "from" : "2019-12-21T08:10:00.000Z",
+                "to" : "2019-12-21T08:55:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Introduction to Quantum Computing, Wave-Particle Duality Entanglement & Decoherence",
+                "speaker" : "Myint Kyaw Thu",
+                "from" : "2019-12-21T08:10:00.000Z",
+                "to" : "2019-12-21T08:55:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Psychological Impact of Computer Programmers",
+                "speaker" : "Aung Soe Moe",
+                "from" : "2019-12-21T09:00:00.000Z",
+                "to" : "2019-12-21T09:45:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "NA",
+                "speaker" : "Bo Bo Zin",
+                "from" : "2019-12-21T09:00:00.000Z",
+                "to" : "2019-12-21T09:45:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Next Step for IoT development with AWS",
+                "speaker" : "Thin Pyai Win",
+                "from" : "2019-12-21T09:00:00.000Z",
+                "to" : "2019-12-21T09:45:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Rapid Application Development",
+                "speaker" : "Myat Min Soe",
+                "from" : "2019-12-21T09:45:00.000Z",
+                "to" : "2019-12-21T10:30:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "Communicating with Colours",
+                "speaker" : "Patrick Minn",
+                "from" : "2019-12-21T09:45:00.000Z",
+                "to" : "2019-12-21T10:30:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "How to win and retain clients in the SaaS world",
+                "speaker" : "Chaw Su Theint",
+                "from" : "2019-12-21T09:45:00.000Z",
+                "to" : "2019-12-21T10:30:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Networking Dinner",
+                "speaker" : "NA",
+                "from" : "2019-12-21T10:30:00.000Z",
+                "to" : "2019-12-21T12:30:00.000Z"
+            }
+        ],
+        "day2" : [
+            {
+                "room" : "Conference Hall",
+                "topic" : "Day2 Keynote",
+                "speaker" : "U Tun Thura Thet",
+                "from" : "2019-12-22T02:30:00.000Z",
+                "to" : "2019-12-22T02:50:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Day2 Remark",
+                "speaker" : "NA",
+                "from" : "2019-12-22T02:50:00.000Z",
+                "to" : "2019-12-22T03:00:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "Digitals Security & AI Technology",
+                "speaker" : "Khine Zaw Lin",
+                "from" : "2019-12-22T03:05:00.000Z",
+                "to" : "2019-12-22T03:50:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Docker CI CD And Kubernetes Administration",
+                "speaker" : "Ko Ko Ye",
+                "from" : "2019-12-22T03:55:00.000Z",
+                "to" : "2019-12-22T04:40:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "Survivor's Tips & Guilts",
+                "speaker" : "Wai Lin Tun",
+                "from" : "2019-12-22T03:55:00.000Z",
+                "to" : "2019-12-22T04:40:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Beyond REST API",
+                "speaker" : "Lin Min Phyo",
+                "from" : "2019-12-22T03:55:00.000Z",
+                "to" : "2019-12-22T04:40:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Paradigm Shift with Flutter (Declarative Programming)",
+                "speaker" : "Soe Thiha Naung",
+                "from" : "2019-12-22T03:45:00.000Z",
+                "to" : "2019-12-22T05:30:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "The art behind conversational AI",
+                "speaker" : "Waing La Min Lwin, Htet Aung Khant, Su Myo Myo Myat",
+                "from" : "2019-12-22T03:45:00.000Z",
+                "to" : "2019-12-22T05:30:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "How to write Clean Code?",
+                "speaker" : "Ye Win",
+                "from" : "2019-12-22T03:45:00.000Z",
+                "to" : "2019-12-22T05:30:00.000Z"
+            },
+            {
+                "room" : "NA",
+                "topic" : "Lunch",
+                "speaker" : "NA",
+                "from" : "2019-12-22T05:30:00.000Z",
+                "to" : "2019-12-22T06:30:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Deploying Machine Learning in Mobile Apps and Web Apps for real-World Production",
+                "speaker" : "Khant Naing Set",
+                "from" : "2019-12-22T06:30:00.000Z",
+                "to" : "2019-12-22T07:15:00.000Z"
+            },
+            {
+                "room" : "203",
+                "topic" : "Controlling Code Quality",
+                "speaker" : "Aung Kyaw Paing",
+                "from" : "2019-12-22T06:30:00.000Z",
+                "to" : "2019-12-22T07:15:00.000Z"
+            },
+            {
+                "room" : "205",
+                "topic" : "Cool JavaScript Tricks",
+                "speaker" : "Ei Maung",
+                "from" : "2019-12-22T06:30:00.000Z",
+                "to" : "2019-12-22T07:15:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Tech Debate",
+                "speaker" : "U Ravi, 2 Teams",
+                "from" : "2019-12-22T07:20:00.000Z",
+                "to" : "2019-12-22T08:20:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Town Hall Meeting",
+                "speaker" : "U Aung Aung",
+                "from" : "2019-12-22T08:30:00.000Z",
+                "to" : "2019-12-22T10:00:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Quiz & Win (Kahoot!)",
+                "speaker" : "NA",
+                "from" : "2019-12-22T10:00:00.000Z",
+                "to" : "2019-12-22T10:15:00.000Z"
+            },
+            {
+                "room" : "Conference Hall",
+                "topic" : "Closing Remarks",
+                "speaker" : "NA",
+                "from" : "2019-12-22T10:15:00.000Z",
+                "to" : "2019-12-22T10:30:00.000Z"
+            }
+        ]
+    }
+}
+
+2019-12-20T17:15
