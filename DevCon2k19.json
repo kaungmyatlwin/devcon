@@ -5,24 +5,24 @@
         "room": "Conference Hall",
         "topic": "Opening Talk",
         "speaker": "MCPA",
-        "from": "2019-12-21T02:30:00.000Z",
-        "to": "2019-12-21T02:40:00.000Z",
+        "from": "2019-12-21T09:00:00+06:30",
+        "to": "2019-12-21T09:10:00+06:30",
         "speakers": []
       },
       {
         "room": "Conference Hall",
         "topic": "Opening Remark  ",
         "speaker": "Guest of Honour",
-        "from": "2019-12-21T02:40:00.000Z",
-        "to": "2019-12-21T02:55:00.000Z",
+        "from": "2019-12-21T09:10:00+06:30",
+        "to": "2019-12-21T09:25:00+06:30",
         "speakers": []
       },
       {
         "room": "Conference Hall",
         "topic": "Opening Opening Keynotes",
         "speaker": "U Chit Tun Pe",
-        "from": "2019-12-21T03:00:00.000Z",
-        "to": "2019-12-21T03:15:00.000Z",
+        "from": "2019-12-21T09:30:00+06:30",
+        "to": "2019-12-21T09:45:00+06:30",
         "speakers": [
           {
             "name": "U Chit Tun Pe",
@@ -35,8 +35,8 @@
         "room": "Conference Hall",
         "topic": "Panel Discussion",
         "speaker": "Moderator U Win Htein Win, 5 panelists",
-        "from": "2019-12-21T03:15:00.000Z",
-        "to": "2019-12-21T04:45:00.000Z",
+        "from": "2019-12-21T09:45:00+06:30",
+        "to": "2019-12-21T11:15:00+06:30",
         "speakers": [
           {
             "name": "U Ravi Chhabra",
@@ -54,8 +54,8 @@
         "room": "Conference Hall",
         "topic": "Initiation of Blockchain Technology based Open Framework for e-Government Development in Myanmar",
         "speaker": "Dr. Thin Thu Naing",
-        "from": "2019-12-21T04:45:00.000Z",
-        "to": "2019-12-21T05:30:00.000Z",
+        "from": "2019-12-21T11:15:00+06:30",
+        "to": "2019-12-21T12:00:00+06:30",
         "speakers": [
           {
             "name": "Dr. Thinn Thu Naing",
@@ -68,8 +68,8 @@
         "room": "203",
         "topic": "Enabling addons in SaaS System",
         "speaker": "Ko Thuya Myo Nyunt",
-        "from": "2019-12-21T04:45:00.000Z",
-        "to": "2019-12-21T05:30:00.000Z",
+        "from": "2019-12-21T11:15:00+06:30",
+        "to": "2019-12-21T12:00:00+06:30",
         "speakers": [
           {
             "name": "U Thura Myo Nyunt",
@@ -82,8 +82,8 @@
         "room": "205",
         "topic": "Enhancing Professional Capacity Through CPD",
         "speaker": "Nyein Oo",
-        "from": "2019-12-21T04:45:00.000Z",
-        "to": "2019-12-21T05:30:00.000Z",
+        "from": "2019-12-21T11:15:00+06:30",
+        "to": "2019-12-21T12:00:00+06:30",
         "speakers": [
           {
             "name": "U Nyein OO",
@@ -96,16 +96,16 @@
         "room": "NA",
         "topic": "Lunch",
         "speaker": "NA",
-        "from": "2019-12-21T05:30:00.000Z",
-        "to": "2019-12-21T06:30:00.000Z",
+        "from": "2019-12-21T12:00:00+06:30",
+        "to": "2019-12-21T13:00:00+06:30",
         "speakers": []
       },
       {
         "room": "Conference Hall",
         "topic": "Magical PHP",
         "speaker": "Ei Maung",
-        "from": "2019-12-21T06:30:00.000Z",
-        "to": "2019-12-21T07:15:00.000Z",
+        "from": "2019-12-21T13:00:00+06:30",
+        "to": "2019-12-21T13:45:00+06:30",
         "speakers": [
           {
             "name": "U Ei Maung",
@@ -118,8 +118,8 @@
         "room": "203",
         "topic": "Spirit of Ownership in Business & Technology",
         "speaker": "Maung Maung Thant",
-        "from": "2019-12-21T06:30:00.000Z",
-        "to": "2019-12-21T07:15:00.000Z",
+        "from": "2019-12-21T13:00:00+06:30",
+        "to": "2019-12-21T13:45:00+06:30",
         "speakers": [
           {
             "name": "U Maung Maung Thant",
@@ -132,8 +132,8 @@
         "room": "205",
         "topic": "Microsoft Power Platform and Business Intelligence",
         "speaker": "Htin Kyaw Soe Lin",
-        "from": "2019-12-21T06:30:00.000Z",
-        "to": "2019-12-21T07:15:00.000Z",
+        "from": "2019-12-21T13:00:00+06:30",
+        "to": "2019-12-21T13:45:00+06:30",
         "speakers": [
           {
             "name": "U Htin Kyaw Soe Lin",
@@ -146,8 +146,8 @@
         "room": "Conference Hall",
         "topic": "Security and Compliance on FinTech",
         "speaker": "Myo Zaw",
-        "from": "2019-12-21T07:20:00.000Z",
-        "to": "2019-12-21T08:05:00.000Z",
+        "from": "2019-12-21T13:50:00+06:30",
+        "to": "2019-12-21T14:35:00+06:30",
         "speakers": [
           {
             "name": "U Myo Zaw (2C2P)",
@@ -160,8 +160,8 @@
         "room": "203",
         "topic": "React Native + Expo + WordPress = Awesome Web & Mobile App",
         "speaker": "Kyaw Thura Aung",
-        "from": "2019-12-21T07:20:00.000Z",
-        "to": "2019-12-21T08:05:00.000Z",
+        "from": "2019-12-21T13:50:00+06:30",
+        "to": "2019-12-21T14:35:00+06:30",
         "speakers": [
           {
             "name": "U Kyaw Thura Aung",
@@ -174,8 +174,8 @@
         "room": "205",
         "topic": "Introduction to Cloud & AI Platform Tools",
         "speaker": "Thu Ta Naing",
-        "from": "2019-12-21T07:20:00.000Z",
-        "to": "2019-12-21T08:05:00.000Z",
+        "from": "2019-12-21T13:50:00+06:30",
+        "to": "2019-12-21T14:35:00+06:30",
         "speakers": [
           {
             "name": "U Thu Ta Naing",
@@ -188,8 +188,8 @@
         "room": "Conference Hall",
         "topic": "Effective Programming vs Communication",
         "speaker": "Pyai Soe Maw",
-        "from": "2019-12-21T08:10:00.000Z",
-        "to": "2019-12-21T08:55:00.000Z",
+        "from": "2019-12-21T14:40:00+06:30",
+        "to": "2019-12-21T15:25:00+06:30",
         "speakers": [
           {
             "name": "U Pyai Soe Maw",
@@ -202,8 +202,8 @@
         "room": "203",
         "topic": "A glimpse to MongoDB Aggregation Framework with Data Visualization",
         "speaker": "Kaung Myat Lwin, Htoo Pyae Lwin",
-        "from": "2019-12-21T08:10:00.000Z",
-        "to": "2019-12-21T08:55:00.000Z",
+        "from": "2019-12-21T14:40:00+06:30",
+        "to": "2019-12-21T15:25:00+06:30",
         "speakers": [
           {
             "name": "Kaung Myat Lwin",
@@ -221,8 +221,8 @@
         "room": "205",
         "topic": "Introduction to Quantum Computing, Wave-Particle Duality Entanglement & Decoherence",
         "speaker": "Myint Kyaw Thu",
-        "from": "2019-12-21T08:10:00.000Z",
-        "to": "2019-12-21T08:55:00.000Z",
+        "from": "2019-12-21T14:40:00+06:30",
+        "to": "2019-12-21T15:25:00+06:30",
         "speakers": [
           {
             "name": "U Myint Kyaw Thu",
@@ -235,8 +235,8 @@
         "room": "Conference Hall",
         "topic": "Psychological Impact of Computer Programmers",
         "speaker": "Aung Soe Moe",
-        "from": "2019-12-21T09:00:00.000Z",
-        "to": "2019-12-21T09:45:00.000Z",
+        "from": "2019-12-21T15:30:00+06:30",
+        "to": "2019-12-21T16:15:00+06:30",
         "speakers": [
           {
             "name": "U Aung Soe Moe",
@@ -249,8 +249,8 @@
         "room": "203",
         "topic": "Building Cloud Native & Service Mesh Effortlessly",
         "speaker": "Bo Bo Zin",
-        "from": "2019-12-21T09:00:00.000Z",
-        "to": "2019-12-21T09:45:00.000Z",
+        "from": "2019-12-21T15:30:00+06:30",
+        "to": "2019-12-21T16:15:00+06:30",
         "speakers": [
           {
             "name": "U Bo Bo Zin",
@@ -263,8 +263,8 @@
         "room": "205",
         "topic": "Next Step for IoT development with AWS",
         "speaker": "Thin Pyai Win",
-        "from": "2019-12-21T09:00:00.000Z",
-        "to": "2019-12-21T09:45:00.000Z",
+        "from": "2019-12-21T15:30:00+06:30",
+        "to": "2019-12-21T16:15:00+06:30",
         "speakers": [
           {
             "name": "Daw Thin Pyai Win",
@@ -275,10 +275,9 @@
       },
       {
         "room": "Conference Hall",
-
         "speaker": "Myat Min Soe",
-        "from": "2019-12-21T09:45:00.000Z",
-        "to": "2019-12-21T10:30:00.000Z",
+        "from": "2019-12-21T16:15:00+06:30",
+        "to": "2019-12-21T17:00:00+06:30",
         "speakers": [
           {
             "name": "U Myat Min Soe",
@@ -291,8 +290,8 @@
         "room": "203",
         "topic": "Communicating with Colours",
         "speaker": "Patrick Minn",
-        "from": "2019-12-21T09:45:00.000Z",
-        "to": "2019-12-21T10:30:00.000Z",
+        "from": "2019-12-21T16:15:00+06:30",
+        "to": "2019-12-21T17:00:00+06:30",
         "speakers": [
           {
             "name": "Patrick Minn",
@@ -305,8 +304,8 @@
         "room": "205",
         "topic": "How to win and retain clients in the SaaS world",
         "speaker": "Chaw Su Theint",
-        "from": "2019-12-21T09:45:00.000Z",
-        "to": "2019-12-21T10:30:00.000Z",
+        "from": "2019-12-21T16:15:00+06:30",
+        "to": "2019-12-21T17:00:00+06:30",
         "speakers": [
           {
             "name": "Daw Chaw Su Theint",
@@ -319,8 +318,8 @@
         "room": "Conference Hall",
         "topic": "Networking Dinner",
         "speaker": "NA",
-        "from": "2019-12-21T10:30:00.000Z",
-        "to": "2019-12-21T12:30:00.000Z",
+        "from": "2019-12-21T17:00:00+06:30",
+        "to": "2019-12-21T19:00:00+06:30",
         "speakers": []
       }
     ],
